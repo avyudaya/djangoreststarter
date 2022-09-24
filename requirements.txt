@@ -1,0 +1,8 @@
+django
+djangorestframework
+
+# code higlighting
+pygments
+
+# api tester
+httpie
